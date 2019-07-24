@@ -148,6 +148,4 @@
 
 [AngularJs ngDoc Generator](https://marketplace.visualstudio.com/items?itemName=Luis.angularjs-ngdoc-generator)
 
-[Angular Snippets (Version 8)(https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
-
 [超越鼓励师](https://marketplace.visualstudio.com/items?itemName=formulahendry.ycy)
